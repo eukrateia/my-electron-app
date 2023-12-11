@@ -7,8 +7,8 @@
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Entropy",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^28.0.0"
   }
